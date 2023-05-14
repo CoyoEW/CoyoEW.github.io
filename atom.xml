@@ -3,11 +3,11 @@
   <title>Coyo</title>
   <icon>https://www.gravatar.com/avatar/c832b0a1427674326d66f691b5632493</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://coyoew.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://coyoew.github.io/"/>
   <updated>2023-05-13T11:36:06.497Z</updated>
-  <id>http://example.com/</id>
+  <id>https://coyoew.github.io/</id>
   
   <author>
     <name>Cmz</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/05/08/hello-world/"/>
-    <id>http://example.com/2023/05/08/hello-world/</id>
+    <link href="https://coyoew.github.io/2023/05/08/hello-world/"/>
+    <id>https://coyoew.github.io/2023/05/08/hello-world/</id>
     <published>2023-05-08T01:58:26.368Z</published>
     <updated>2023-05-13T11:36:06.497Z</updated>
     
