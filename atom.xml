@@ -6,7 +6,7 @@
   <link href="https://coyoew.github.io/atom.xml" rel="self"/>
   
   <link href="https://coyoew.github.io/"/>
-  <updated>2023-05-13T11:36:06.497Z</updated>
+  <updated>2023-05-15T03:22:20.691Z</updated>
   <id>https://coyoew.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人减脂心得</title>
+    <link href="https://coyoew.github.io/2023/05/15/%E4%B8%AA%E4%BA%BA%E5%87%8F%E8%84%82%E5%BF%83%E5%BE%97/"/>
+    <id>https://coyoew.github.io/2023/05/15/%E4%B8%AA%E4%BA%BA%E5%87%8F%E8%84%82%E5%BF%83%E5%BE%97/</id>
+    <published>2023-05-15T03:10:51.000Z</published>
+    <updated>2023-05-15T03:22:20.691Z</updated>
+    
+    <content type="html"><![CDATA[<p> 三分吃七分练，先停零食和饮料。减脂讲究的是坚持，如果吃的东西不能满足自己的口腹欲的话很难坚持的下来。所以在减脂的时候不要为了减少能量摄入而少吃，更不要在一开始就大幅度减少自己三餐的摄入，可以先减少午饭和晚饭的碳水摄入。<br> 三餐的米面可以改成粗粮。因为粗粮比较难以消化进食后饱腹感会持续较长时间，不容易产生饥饿，且食用后的升糖指数比细粮低。<br> 最好是多吃水果蔬菜这类的，因为其热量少，可以多吃来满足自己的口腹欲。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt; 三分吃七分练，先停零食和饮料。减脂讲究的是坚持，如果吃的东西不能满足自己的口腹欲的话很难坚持的下来。所以在减脂的时候不要为了减少能量摄入而少吃，更不要在一开始就大幅度减少自己三餐的摄入，可以先减少午饭和晚饭的碳水摄入。&lt;br&gt; 三餐的米面可以改成粗粮。因为粗粮比较难以消化</summary>
+      
+    
+    
+    
+    
+    <category term="减脂" scheme="https://coyoew.github.io/tags/%E5%87%8F%E8%84%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://coyoew.github.io/2023/05/15/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://coyoew.github.io/2023/05/15/%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-05-15T03:08:30.000Z</published>
+    <updated>2023-05-15T03:09:30.048Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试一下</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试一下&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="https://coyoew.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

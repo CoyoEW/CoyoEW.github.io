@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coyoew.github.io/2023/05/15/%E4%B8%AA%E4%BA%BA%E5%87%8F%E8%84%82%E5%BF%83%E5%BE%97/</loc>
+    
+    <lastmod>2023-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://coyoew.github.io/2023/05/15/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2023-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://coyoew.github.io/categories/index.html</loc>
     
     <lastmod>2023-05-14</lastmod>
@@ -31,11 +49,25 @@
 
   <url>
     <loc>https://coyoew.github.io/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://coyoew.github.io/tags/%E5%87%8F%E8%84%82/</loc>
+    <lastmod>2023-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://coyoew.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
